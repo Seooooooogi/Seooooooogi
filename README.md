@@ -7,22 +7,26 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" alt="ROS2">
 </p>
 
 ---
 
 ### 🔭 Research Interests · 연구 관심사
 단일 이미지로부터의 **3D 생성 · 텍스처 전이 · 아바타 복원**을 중심으로 3D Vision과
-Generative Models를 연구해 왔으며, 현재는 그 기반 위에서 **Robot Learning / VLA**로
-관심을 확장하고 있습니다.
+Generative Models를 연구해 왔으며, 현재는 그 기반 위에서 **LLM · 멀티모달**,
+**Robot Learning / VLA**, 그리고 **AI 에이전트 / MCP 기반 개발 도구**로 관심을 확장하고 있습니다.
 
 I work on **3D vision** and **generative models** — controllable 3D generation,
 texture transfer, and single-image avatar reconstruction — and I am extending
-toward **robot learning / VLA (Vision-Language-Action)**.
+toward **LLMs & multimodal**, **robot learning / VLA (Vision-Language-Action)**,
+and **AI agents / dev tooling (MCP)**.
 
 - 🧊 **3D Vision** — single-image 3D generation, NeRF / 3D Gaussian Splatting, texture & style transfer
 - 🎨 **Generative Models** — diffusion models, image / video editing
+- 💬 **LLMs & Multimodal** — vision-language models, LLM applications
 - 🦾 **Robot Learning / VLA** *(emerging)* — imitation learning, manipulation
+- 🛠️ **AI Agents & Dev Tooling** — LLM agents, Model Context Protocol (MCP), agentic / "vibe" coding
 
 ### 🎓 Education · 학력
 - **M.S. in Computer Engineering**, Kookmin University (2022.08 – 2025.02)
