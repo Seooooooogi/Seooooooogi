@@ -13,14 +13,6 @@
 ---
 
 ### 🔭 Research Interests · 연구 관심사
-단일 이미지로부터의 **3D 생성 · 텍스처 전이 · 아바타 복원**을 중심으로 3D Vision과
-Generative Models를 연구해 왔으며, 현재는 그 기반 위에서 **LLM · 멀티모달**,
-**Robot Learning / VLA**, 그리고 **AI 에이전트 / MCP 기반 개발 도구**로 관심을 확장하고 있습니다.
-
-I work on **3D vision** and **generative models** — controllable 3D generation,
-texture transfer, and single-image avatar reconstruction — and I am extending
-toward **LLMs & multimodal**, **robot learning / VLA (Vision-Language-Action)**,
-and **AI agents / dev tooling (MCP)**.
 
 - 🧊 **3D Vision** — single-image 3D generation, NeRF / 3D Gaussian Splatting, texture & style transfer
 - 🎨 **Generative Models** — diffusion models, image / video editing
