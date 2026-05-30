@@ -14,10 +14,10 @@
 
 ### 🔭 Research Interests · 연구 관심사
 
-- 🧊 **3D Vision** — single-image 3D generation, NeRF / 3D Gaussian Splatting, texture & style transfer
+- 🧊 **3D Vision** — 3D generative Models, NeRF / 3D Gaussian Splatting, texture & style transfer
 - 🎨 **Generative Models** — diffusion models, image / video editing
-- 💬 **LLMs & Multimodal** — vision-language models, LLM applications
-- 🦾 **Robot Learning / VLA** *(emerging)* — imitation learning, manipulation
+- 💬 **LLMs & Multimodal** — Vision-language models, LLM applications
+- 🦾 **Robot Learning / VLA** — imitation learning, manipulation
 - 🛠️ **AI Agents & Dev Tooling** — LLM agents, Model Context Protocol (MCP), agentic / "vibe" coding
 
 ### 🎓 Education · 학력
