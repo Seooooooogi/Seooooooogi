@@ -35,9 +35,9 @@ and **AI agents / dev tooling (MCP)**.
   Science and Technology (SeoulTech) (2015.03 – 2021.02)
 
 ### 📝 Selected Publications · 주요 논문
-- **Controllable 3D Object Generation with Single Image Prompt** — *ICPR 2024*
+- **[Controllable 3D Object Generation with Single Image Prompt](https://github.com/Seooooooogi/Control3D_IP)** — *ICPR 2024*
   — **Jaeseok Lee**, Jaekoo Lee
-- **[Best Paper]** 텍스트–이미지 임베딩 간 적응적 스케일링을 통한 카테고리 간 텍스처 전이
+- **[Best Paper]** [텍스트–이미지 임베딩 간 적응적 스케일링을 통한 카테고리 간 텍스처 전이](https://github.com/Seooooooogi/Texture_project)
   — *5th Korea AI Conference 2024* — **Jaeseok Lee**, Yoonseok Kang, Jaekoo Lee
 - 어텐션 연산 제어를 통한 단일 이미지 입력 텍스처 전이의 3차원 일관성 향상
   — *IPIU 2025* — **Jaeseok Lee**, Soye Kwon, Jaekoo Lee
