@@ -12,7 +12,7 @@
 
 ---
 
-### 🔭 Research Interests · 연구 관심사
+### 🔭 Research Interests
 
 - 🧊 **3D Vision** — 3D generative Models, NeRF / 3D Gaussian Splatting, texture & style transfer
 - 🎨 **Generative Models** — diffusion models, image / video editing
@@ -20,13 +20,13 @@
 - 🦾 **Robot Learning / VLA** — imitation learning, manipulation
 - 🛠️ **AI Agents & Dev Tooling** — LLM agents, Model Context Protocol (MCP), agentic / "vibe" coding
 
-### 🎓 Education · 학력
+### 🎓 Education
 - **M.S. in Computer Engineering**, Kookmin University (2022.08 – 2025.02)
   — 3D reconstruction, avatar, generative models
 - **B.S. in Electronic & Information Engineering**, Seoul National University of
   Science and Technology (SeoulTech) (2015.03 – 2021.02)
 
-### 📝 Selected Publications · 주요 논문
+### 📝 Selected Publications
 - **[Controllable 3D Object Generation with Single Image Prompt](https://github.com/Seooooooogi/Control3D_IP)** — *ICPR 2024*
   — **Jaeseok Lee**, Jaekoo Lee
 - **[Best Paper]** [텍스트–이미지 임베딩 간 적응적 스케일링을 통한 카테고리 간 텍스처 전이](https://github.com/Seooooooogi/Texture_project)
