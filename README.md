@@ -31,12 +31,10 @@
   — **Jaeseok Lee**, Jaekoo Lee
 - **[Best Paper]** [텍스트–이미지 임베딩 간 적응적 스케일링을 통한 카테고리 간 텍스처 전이](https://github.com/Seooooooogi/Texture_project)
   — *5th Korea AI Conference 2024* — **Jaeseok Lee**, Yoonseok Kang, Jaekoo Lee
-- 어텐션 연산 제어를 통한 단일 이미지 입력 텍스처 전이의 3차원 일관성 향상
-  — *IPIU 2025* — **Jaeseok Lee**, Soye Kwon, Jaekoo Lee
 
 <details>
 <summary>전체 논문 목록 보기 / Full publication list</summary>
-
+- 어텐션 연산 제어를 통한 단일 이미지 입력 텍스처 전이의 3차원 일관성 향상 — *IPIU 2025* — **Jaeseok Lee**, Soye Kwon, Jaekoo Lee
 - 의사 3차원 훈련 데이터를 통한 텍스처 생성 모델의 텍스처 품질 향상 — *KICS 2024* — Jaeseok Lee, Jaekoo Lee
 - 사진–SMPL 추정을 통한 3차원 생성 아바타의 자세 변경 — *4th Korea AI Conference 2023* — Jaeseok Lee, Jaekoo Lee
 - NeRF에서의 커리큘럼 학습 효과 비교 — *KICS 2023* — Jaeseok Lee, Junghyeon Seo, Jaekoo Lee
