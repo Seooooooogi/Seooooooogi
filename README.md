@@ -10,6 +10,14 @@
   <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" alt="ROS2">
 </p>
 
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Seooooooogi&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Seooooooogi"
+  width="600"
+  height="300"
+/>
+</a>
+
 ---
 
 ### 🔭 Research Interests
